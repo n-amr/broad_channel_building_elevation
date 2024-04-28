@@ -18,3 +18,7 @@
 - The DOB used a third party provider to create the dataset, through the use of LIDAR (Light Detection and Ranging) technology to create the dataset
 
 - More info on the dataset provided here: https://data.cityofnewyork.us/City-Government/Building-Elevation-and-Subgrade-BES-/bsin-59hv/about_data
+
+**Outcomes**
+- A  notebook to process and analyse the house elevation data in Broad Channel
+- A simple map that plots each house based on whether they will be regularly impacted by flood by 2050 
