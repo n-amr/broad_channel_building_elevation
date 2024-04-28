@@ -6,8 +6,7 @@ The benchmark for flooding is the occurence of 'regular' tidal flooding by 2050,
 We chose tidal flooding because tides have been the main cause of floods in Broad Channel, with less frequent (but sometimes more extreme) occurences from storms and rain
 The objective is to understand what % of homes are under threat from regular flooding, and to map these houses
 
-**Elevation Data
-**
+**Elevation Data**
 Elevation based on an NYC open data dataset provided by the department of building (DOB) in October 2022
 We assume that most buildings / houses in the city haven't changed since 2022 so consider that the dataset is fresh enough
 The DOB used a third party provider to create the dataset, through the use of LIDAR (Light Detection and Ranging) technology to create the dataset
